@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "+U0PitsZcsBTWe0rMtKuquCy+8wpruzuevm/U0RBabp/m9HrgWcPHCihV/YeH0bY3d8BtnT/mgoEd93IlnmA4w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sbosch\\source\\repos\\AGRO\\AGRO\\AGRO.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sbosch\\.nuget\\packages\\bootstrap\\5.2.1\\bootstrap.5.2.1.nupkg.sha512",
+    "C:\\Users\\sbosch\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.17.0\\microsoft.visualstudio.azure.containers.tools.targets.1.17.0.nupkg.sha512"
+  ],
+  "logs": []
+}
