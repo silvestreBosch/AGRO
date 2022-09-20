@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "D4kupY4/gCKEybi1197mml7IBjKBeznPBNzA2xYUKyY=",
+  "Hash": "gCy5R3n137kDFbGIYPmh3cbO5154aWZVUM57hQTtZKg=",
   "Source": "AGRO",
   "BasePath": "_content/AGRO",
   "Mode": "Default",
@@ -848,6 +848,40 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\sbosch\\source\\repos\\AGRO\\AGRO\\wwwroot\\imgs\\icon-ssn.png",
+      "SourceId": "AGRO",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\sbosch\\source\\repos\\AGRO\\AGRO\\wwwroot\\",
+      "BasePath": "_content/AGRO",
+      "RelativePath": "imgs/icon-ssn.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imgs\\icon-ssn.png"
+    },
+    {
+      "Identity": "C:\\Users\\sbosch\\source\\repos\\AGRO\\AGRO\\wwwroot\\imgs\\person.svg",
+      "SourceId": "AGRO",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\sbosch\\source\\repos\\AGRO\\AGRO\\wwwroot\\",
+      "BasePath": "_content/AGRO",
+      "RelativePath": "imgs/person.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imgs\\person.svg"
     },
     {
       "Identity": "C:\\Users\\sbosch\\source\\repos\\AGRO\\AGRO\\wwwroot\\js\\site.js",

@@ -1,13 +1,113 @@
-﻿body {
+﻿:root {
+    --main-bg-color: rgb(55, 187, 237);
+    --main-font-family: "Encode Sans",Arial,sans-serif;
+    --main-color:white;
+}
+
+body header {
+    background-color: var(--main-bg-color);
+}
+
+body {
     font-family: var(--bs-font-sans-serif);
     font-size: 1rem;
     font-weight: 400;
     line-height: 1.5;
     text-align: center !important;
     box-sizing: border-box;
-    background-color: #3F96BF;
+    background-color: rgb(232, 232, 232);
 }
 
 .mb-3 {
     margin-bottom: 1rem !important;
 }
+
+header h1 {
+    height: 63px;
+    width: 235px;
+    left: 0px;
+    top: 29px;
+    font-family: var(--main-font-family);
+    font-size: 50px;
+    font-weight: bold;
+    line-height: 63px;
+    letter-spacing: 0.2em;
+    text-align: left;
+    color: rgba(255, 255, 255, 1);
+}
+
+a.nav-link.usuarioDeOrganismo {
+    -webkit-text-size-adjust: 100%;
+    -webkit-tap-highlight-color: rgba(0,0,0,0);
+    font-family: "Encode Sans",Arial,sans-serif;
+    list-style: none;
+    box-sizing: border-box;
+    display: inline-block;
+    text-align: center;
+    touch-action: manipulation;
+    cursor: pointer;
+    background-image: none;
+    user-select: none;
+    background-color: #fff !important;
+    border: 3px solid transparent;
+    font-size: 16px;
+    font-weight: 600;
+    padding: 8px 20px;
+    text-transform: inherit;
+    vertical-align: top;
+    white-space: normal;
+    word-break: initial;
+    letter-spacing: inherit;
+    border-radius: 30px;
+    line-height: 1.42857143;
+    color: #0072bb;
+    text-decoration: none;
+    margin: 13px 0 0 13px;
+    padding-left: 10px;
+    padding-right: 10px;
+    float: left;
+}
+
+div.breadcrumb {
+    background: rgba(0,0,0,.6);
+    padding: 10px 0 5px 10px;
+}
+
+
+ul.breadcrumbUl {
+    /*font-family: "Encode Sans",Arial,sans-serif;*/
+    list-style: none;
+    text-shadow: 0 2px 2px rgba(0,0,0,.5);
+    line-height: 22px;
+    font-weight: 500;
+    color: #fff;
+    font-size: 14px;
+    text-decoration: none;
+    padding: 10px 0 5px 0; 
+}
+ 
+.container{
+    height:73vh;
+}
+
+footer {
+    background-color: var(--main-bg-color);
+    font-family: var(--main-font-family);
+    height: 43px;
+    width: 100%;
+    left: 0px;
+    top: 984px;
+    border-radius: 0px;
+    color: var(--main-color);
+}
+
+footer div.imgSsn img {
+    height: 40px;
+    width: 250px;
+    left: 1182px;
+    top: 984px;
+    border-radius: 0px;
+}
+
+ 
+ 
